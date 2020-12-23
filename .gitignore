@@ -1,0 +1,4 @@
+dmenu
+*.o
+*.tar.xz
+patches
